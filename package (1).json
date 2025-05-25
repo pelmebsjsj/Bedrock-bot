@@ -1,0 +1,14 @@
+{
+  "name": "bedrock-bot",
+  "version": "1.0.0",
+  "description": "Minecraft Bedrock bot for Railway with command handling",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^1.19.0",
+    "openai": "^4.0.0",
+    "dotenv": "^16.0.0"
+  }
+}
